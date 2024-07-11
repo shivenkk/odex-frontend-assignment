@@ -1,0 +1,10 @@
+.header {
+    background-color: #fff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.logo {
+    margin-right: 16px;
+    height: 40px;
+    /* Adjust as needed */
+}

@@ -1,0 +1,10 @@
+.sidebar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
+
+.sidebar .MuiIconButton-root {
+    margin-right: 10px;
+}

@@ -1,0 +1,30 @@
+.shipping-table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.shipping-table .MuiTableCell-head {
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+.shipping-table .instruction {
+    color: #1e88e5;
+    /* Blue color */
+}
+
+.shipping-table .payment {
+    color: #43a047;
+    /* Green color */
+}
+
+.shipping-table .release {
+    color: #e53935;
+    /* Red color */
+}
+
+.MuiIconButton-root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
